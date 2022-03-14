@@ -1,0 +1,2 @@
+- 👋 Hi, The @MitoBlock is 2022 Capstone Project at Sheridan College
+- 👀 The objective is to build a product (MitoBlock) that acts as an ecosystem for startups and small businesses to freely exchange value with each other with the help of blockchain technology
